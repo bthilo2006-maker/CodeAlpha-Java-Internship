@@ -76,7 +76,7 @@ Bot: Goodbye! Have a productive day.
 
 ## 👨‍💻 Author
 
-**Madheshwaran M**
+B Thilothamai
 
 B.E. Electronics Engineering (VLSI Design and Technology)
 
