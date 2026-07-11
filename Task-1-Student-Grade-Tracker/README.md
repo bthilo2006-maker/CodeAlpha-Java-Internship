@@ -35,5 +35,3 @@ Average Score: 85.0
 Highest Score: Alice (92.0)
 Lowest Score: Bob (78.0)
 
-## Author
-Madheshwaran M
